@@ -1,6 +1,6 @@
 {
   "name": "analyze-reselect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Analyze how often your reselect selectors are being called",
   "main": "index.js",
   "repository": "https://github.com/AaronBuxbaum/analyze-reselect",
