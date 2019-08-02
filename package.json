@@ -1,0 +1,13 @@
+{
+  "name": "analyze-reselect",
+  "version": "1.0.0",
+  "description": "Analyze how often your reselect selectors are being called",
+  "main": "index.js",
+  "repository": "https://github.com/AaronBuxbaum/analyze-reselect",
+  "author": "Aaron Buxbaum <me@aaronbuxbaum.com>",
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {
+    "reselect": "^4.0.0"
+  }
+}
